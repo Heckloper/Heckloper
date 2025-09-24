@@ -49,12 +49,12 @@ I’m a coder, designer, and experimental thinker. I focus on building practical
 Projects, scripts, bots, and design experiments that solve real problems, explore new approaches, and demonstrate practical applications of technology. Everything is functional, efficient, and reliable.  
 Feel free to browse 😄  
 
----
 
+---
 > **“When something is important enough, you do it even if the odds are not in your favor.”**  
 > — *Elon Musk*
-
 ---
+
 
 ## 📊 GitHub Stats
 <p align="left">
